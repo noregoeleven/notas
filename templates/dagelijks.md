@@ -1,0 +1,8 @@
+- [ ] school/werk
+- [ ] sport
+- [ ] ontspanning
+- [ ] financieel
+- [ ] medicijnen pakken
+- [ ] mentale gezondheid
+- [ ] bijleren
+- [ ] goede relaties
