@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunden/hoofdstuk 1/1.1.md",
+                "file": "wiskunden/hoofdstuk 1/dit ken je van al hoofstuk 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dit ken je van al hoofstuk 1"
+            }
+          },
+          {
+            "id": "1aec3d68c464d37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nederlands/hoofstuk 1/1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "1.1"
-            }
-          },
-          {
-            "id": "abc3106e659a7caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "werken met git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "werken met git"
             }
           }
         ],
@@ -185,13 +185,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "abc3106e659a7caa",
+  "active": "1aec3d68c464d37d",
   "lastOpenFiles": [
+    "nederlands/hoofstuk 1",
     "wiskunden/hoofdstuk 1/dit ken je van al hoofstuk 1.md",
-    "wiskunden/hoofdstuk 1",
-    "wiskunden/hoofdstuk 1/1.1.md",
+    "nederlands/hoofstuk 1/1.1.md",
+    "nederlands",
     "nore.md",
     "werken met git.md",
+    "wiskunden/hoofdstuk 1",
+    "wiskunden/hoofdstuk 1/1.1.md",
     "dagelijks/2025-08-31.md",
     "templates/dagelijks.md",
     "dagelijks",
