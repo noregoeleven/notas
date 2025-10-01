@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiskunden/hoofdstuk 1/1.3.md",
+                "file": "nederlands/hoofstuk 1/1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3"
+              "title": "1.1"
+            }
+          },
+          {
+            "id": "80222157d09602ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nederlands/hoofstuk 1/1.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4"
+            }
+          },
+          {
+            "id": "9542cc3c115e6e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 het magnetisch veld"
+            }
+          },
+          {
+            "id": "f83802be3274bed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 het magnetisch veld"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,17 +213,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ecdf156edfca2dd1",
   "lastOpenFiles": [
+    "elektriciteit/hoofdstuk 2",
+    "mechanica/heraling vorig jaar.md",
+    "mechanica/Untitled.md",
+    "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
+    "elektriciteit/hoofdstuk 1",
+    "elektriciteit/Untitled.md",
+    "Untitled/Untitled.md",
+    "nederlands/hoofstuk 1/1.5.md",
+    "nederlands/hoofstuk 1/1.4.md",
+    "nederlands/hoofstuk 1/1.1.md",
+    "wiskunden/hoofdstuk 1/1.2.md",
+    "wiskunden/hoofdstuk 1/1.1.md",
     "nore.md",
     "wiskunden/hoofdstuk 1/1.3.md",
-    "wiskunden/hoofdstuk 1/1.2.md",
     "dagelijks/2025-08-31.md",
-    "elektriciteit/1.1 het magnetisch veld.md",
-    "mechanica/heraling vorig jaar.md",
-    "nederlands/hoofstuk 1/1.1.md",
-    "Untitled/Untitled.md",
-    "wiskunden/hoofdstuk 1/1.1.md",
     "templates/dagelijks.md",
     "werken met git.md",
     "elektriciteit/Welcome.md",
@@ -188,7 +237,6 @@
     "mechanica",
     "Untitled 1/Untitled.md",
     "Untitled 1/Untitled",
-    "Untitled",
     "wiskunden/hoofdstuk 1/dit ken je van al hoofstuk 1.md",
     "nederlands/hoofstuk 1",
     "nederlands",
