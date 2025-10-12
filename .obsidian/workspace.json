@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nederlands/hoofstuk 1/1.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1"
-            }
-          },
-          {
-            "id": "80222157d09602ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nederlands/hoofstuk 1/1.4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4"
-            }
-          },
-          {
-            "id": "9542cc3c115e6e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
                 "mode": "source",
                 "source": false
@@ -50,21 +22,49 @@
             }
           },
           {
-            "id": "f83802be3274bed0",
+            "id": "0c840db2c863025a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
+                "file": "elektriciteit/hoofdstuk 2/2.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 het magnetisch veld"
+              "title": "2.1"
+            }
+          },
+          {
+            "id": "5971c0cc37adcbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elektriciteit/hoofdstuk 2/2.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2"
+            }
+          },
+          {
+            "id": "c5e34ff6979d428b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "werken met git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "werken met git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,12 +213,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ecdf156edfca2dd1",
+  "active": "c5e34ff6979d428b",
   "lastOpenFiles": [
+    "elektriciteit/hoofdstuk 2/2.3.md",
+    "elektriciteit/hoofdstuk 2/2.2.md",
+    "elektriciteit/hoofdstuk 2/2.1.md",
+    "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
+    "nore.md",
+    "wiskunden/hoofdstuk 1/1.3.md",
     "elektriciteit/hoofdstuk 2",
     "mechanica/heraling vorig jaar.md",
     "mechanica/Untitled.md",
-    "elektriciteit/hoofdstuk 1/1.1 het magnetisch veld.md",
     "elektriciteit/hoofdstuk 1",
     "elektriciteit/Untitled.md",
     "Untitled/Untitled.md",
@@ -227,8 +232,6 @@
     "nederlands/hoofstuk 1/1.1.md",
     "wiskunden/hoofdstuk 1/1.2.md",
     "wiskunden/hoofdstuk 1/1.1.md",
-    "nore.md",
-    "wiskunden/hoofdstuk 1/1.3.md",
     "dagelijks/2025-08-31.md",
     "templates/dagelijks.md",
     "werken met git.md",
@@ -243,7 +246,6 @@
     "wiskunden/hoofdstuk 1",
     "dagelijks",
     "2025-08-31.md",
-    "templates",
-    "Untitled.base"
+    "templates"
   ]
 }
